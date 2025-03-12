@@ -47,6 +47,7 @@ Quadro - Local onde são organizadas as colunas e os cartões, podendo ser um qu
 Caracterizado por  práticas que enfatizam a comunicação frequente e o feedback contínuo o XP carrega consigo 5 princípios importantes, que são eles:
 
 1- Comunicação: Assegura que todos na equipe compartilhem conhecimento, compreendam os requisitos, expectativas do cliente e colaborem efetivamente.
+
 2- Simplicidade: Evita complexidade desnecessária e incentiva os desenvolvedores a implementarem soluções mais simples que também possam funcionar.
 
 3- Feedback: São realizados testes constantes e interações frequentes, e feedbacks entre os membros da equipe e tambén clientes.
