@@ -22,25 +22,37 @@ Sprints são períodos curtos e fixos em que a equipe scrum trabalha para conclu
 
 ### 💬 Cerimônias  
 O desenvolvimento de um projeto Scrum, normalmente é divido em cinco tipos de Sprints, sendo elas:
+
 1- Sprint Planning: Em uma reunião de planejamento, o time de desenvolvimento seleciona os itens prioritários do Product Backlog, que é uma lista ordenada de requisitos que precisam estar no produto e são separados no Sprint Backlog.
+
 2- Sprint Backlog: Agrupa os itens prioritários que serão trabalhados em Sprint Scrum, onde a meta será traçada visando o desenvolvimento de algum incremento ao produto.
+
 3- Sprint Review : Em uma reunião de revisão após o final de cada Sprint Scrum, é onde geralmente é obtido o incremento do produto, onde o time conversa com o cliente que dá um feedback sobre a última entrega.  
+
 4- Sprint Retrospective: Seu objetivo é repassaro que foi feito de certo e errado na Sprint Scrum, para que seja possível aprender com as falhas, corrigi-las e também reconhecer as conquistas.
+
 5- Daily Scrum: É uma reunião diária que dura por volta de 15 minutos e tem como objetivo repassar o trabalho do dia anterior e elaborar o plano de ação para o dia que se inicia.
 
 ## 🎯 Kanban  
 O método Kanban consiste em repartir as tarefas e organizá-las em um quadro e trabalho divido em: tarefas pendentes, tarefas em andamento e tarefas concluídas. Dessa forma, o método Kanban pode ser utilizado em diversas áreas, como o desenvolvimento de software, mas também o marketing e produção. 
 Seus elementos são:
+
 Cartão - é colorido para facilitar a identificação dos processos e representa uma ação, tarefa ou item que será movido de acordo com o andamento do processo.
+
 Colunas - As colunas representam o status dos cartões, ou seja, os locais para os quais eles serão movidos após uma mudança/atuação. 
+
 Quadro - Local onde são organizadas as colunas e os cartões, podendo ser um quadro branco, um vidro de escritório ou até mesmo ferramentas online.
 
 ## 🚀 Extreme Programming (XP)  
 Caracterizado por  práticas que enfatizam a comunicação frequente e o feedback contínuo o XP carrega consigo 5 princípios importantes, que são eles:
+
 1- Comunicação: Assegura que todos na equipe compartilhem conhecimento, compreendam os requisitos, expectativas do cliente e colaborem efetivamente.
 2- Simplicidade: Evita complexidade desnecessária e incentiva os desenvolvedores a implementarem soluções mais simples que também possam funcionar.
+
 3- Feedback: São realizados testes constantes e interações frequentes, e feedbacks entre os membros da equipe e tambén clientes.
+
 4- Coragem: A coragem permite ter ousadia para enfrentar os desafios e realizar as mudanças necessárias no código, mantendo a integridade do projeto a longo prazo.
+
 5- Respeito: Cada contribuição é valorizada e os membros da equipe confiam e apoiam uns aos outros.
 
 ## 🔧 Ferramentas de Gestão de Desenvolvimento  
