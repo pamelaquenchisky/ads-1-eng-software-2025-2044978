@@ -62,3 +62,85 @@ Com essas ferramentas é possível armazenar codigos fonte, revisá-los constant
 
 ### 🎮 Jira / Trello  
 Essas ferramentas são importantes para organização e visualização de demandas, onde todo time pode acompanhar o andamento das tarefas. Algumas funcionalidades são: uadro de tarefas com visões de cartões, contador de coluna e também relatórios e gráficos de rendimento e resultados. Portanto, em uma empresa onde as solicitações e demandas são diárias e de grande fluxo, essas ferramentas são fundamentais para organização e execução das tarefas.
+
+
+
+## 🔍Levantamento de Requisitos
+
+# 1º Cenário: Sistema de Gestão de Estoque para uma Loja de Eletrônicos.
+
+### 📖 Requisitos Funcionais:
+
+1- Na tela de acesso, o sistema deve pedir usuário e senha, para que a pessoa que vai utilizar se identifique antes de iniciar;
+
+2- O sistema deve ter um botão chamado "Estoque" e quando o usuário clicar nele, abrirá uma nova aba, que mostrará as seguintes opções para seleção:
+- "Cadastrar novo produto": onde o usuário poderá cadastrar novos produtos.
+- "Meu estoque atual": Onde o usuário poderá ver a quantidade atual disponível de cada produto.
+- "Produtos cadastrados": Onde o usuário poderá conferir quais produtos estão cadastrados e o código deles.
+
+3- O sistema deve identificar e alertar o usuário com uma notificação na tela assim que for utilizar o sistema quando o estoque de cada produto estiver baixo, considerando baixo uma quantidade igual ou menor que 10 unidades de cada produto.
+
+4- Em relação às notificações de estoque, quando o sistema emitir o alerta na tela, o usuário terá a opção de clicar em "lembrar mais tarde", quando não puder resolver naquela hora ou "não me notifique mais", quando decidir ignorar a mensagem por já ter feito o pedido do produto ou não considerar necessário repor ainda.
+
+5- O sistema também deve ter um botão chamado "Vendas", na mesma tela do botão "Estoque", onde o usuário poderá acessar para registrar uma venda realizada, inserindo o código do produto e trazendo assim as informações dele, como seu preço.
+
+6- Ainda na segunda dela, onde encontram-se os botões "Estoque" e "Vendas", o sistema apresentará também a opção de "Consultar/cadastrar fornecedor". Nesta opção estarão registrados todos os fornecedores com os quais a empresa trabalha e também será possível cadastrar novos fornecedores. 
+
+7- O sistema não permitirá realizar uma venda de um produto que não esteja cadastrado no sistema e também não permitirá cadastrar um novo produto sem que sejam inseridas as informações do fornecedor.
+
+8- No momento da venda, o sistema deverá fornecer a opção de cadastro de usuário, para que a empresa consiga coletar informações de contato de seus clientes e em um momento oportuno ou necessário contatá-lo. OBS: este campo não será de preenchimento obrigatório.
+
+9 - Com o botão "Relatório", o sistema contará com a opção de gerar relatórios quinzenais ou mensais sobre a movimentação de estoque e desempenho de vendas da loja, para que seja possível identificar produtos que possuem uma saída menor e tomar decisões a partir da análise. Nesta opção os relatórios ficarão salvos e identificados por data, para fins comparativos.
+
+
+
+### 📖 Requisitos NÃO Funcionais:
+
+1- O sistema de funcionar 24 horas por dia e 7 dias por semana, sem interrupções.
+
+2- O sistema deve ser seguro, protegido por criptografia e não violável.
+
+3- O sistema deve funcionar em todos os dispositivos, desktop, smartphone, etc.
+
+4- O sistema deve ter um tempo de resposta de no máximo 3 segundos.
+
+
+
+# Cenário 2: Aplicativo de Saúde e Bem-Estar.
+
+### 📖 Requisitos Funcionais:
+
+1- Na primeira tela, no botão "Cadastro" o sistema deve pedir informações pessoais do usuário a ser cadastrado, como: nome, idade, peso, altura e objetivo.
+
+2- Após o cadastro, o sistema permitirá que o usuário insira informações sobre rotina alimentar no botão "Dieta" e também solicitar uma dieta online, que atenda suas necessidades atuais e contemple alimentos que o usuário goste de consumir.
+
+3- O sistema deve ter um botão chamado "Atividades fisícas", onde o usuário encontrará atividades como: corrida, caminhada, natação, ciclismo, musculação.
+
+4- Para cada opção de atividade física que o usuário selecionar, o sistema disponibilizará com opções como:
+- Cronômetro: para que o usuário possa cronometrar o tempo gasto com cada atividade;
+- Orientações e ideias: formas dinâmicas e desafios relacionados à atividade física escolhida.
+
+5- No botão "Minha Saúde", o sistema permitira que o usuário registre dados como: pressão arterial, peso(variação dele), níveis de glicose, e sentimentos do dia identificados pelo próprio usuário (indisposição, energia, ânimo, tristeza, etc.).
+
+6- No botão "Metas", o sistema dará a opção do usuário cadastrar metas que podem ser: ganho ou perda de peso, melhoria no desempenho de atividades físicas e superação de desafios relacionados à inserção de uma alimentação saúdavel. 
+
+7- O sistema deve contar com uma função chamada "Hidratação", onde o usuário configura disparos de notificações para que ele se lembre de tomar água durante o dia.
+
+8- O sistema deve permitir que o usuário exporte relatórios em PDF sobre seu desempenho em relação à atividades físicas, alimentação saudável e saúde corporal.
+
+9- O sistema deve permitir que o usuário configure alertas para notificá-lo sobre a "Hora do Sono", momento que ele deve deixar aparelhos eletrônicos de lado e se preparar para dormir.
+
+
+### 📖 Requisitos NÃO Funcionais:
+
+1- O sistema deve ser intuitivo e de fácil uso.
+
+2- Para cada ação, o sistema deve ter uma resposta de no máximo 3 segundos.
+
+3- O sistema deve armazenar os dados dos usuários com segurança, utilizando criptografia.
+
+4- O sistema deve suportar o acesso simultâneo de vários usuários sem perder o desemepenho.
+
+
+
+
