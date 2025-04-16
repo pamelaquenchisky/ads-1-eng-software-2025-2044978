@@ -68,7 +68,7 @@ Essas ferramentas são importantes para organização e visualização de demand
 # 🔍Levantamento de Requisitos
 
 
-# 1º Cenário: Sistema de Gestão de Estoque para uma Loja de Eletrônicos.
+## 1º Cenário: Sistema de Gestão de Estoque para uma Loja de Eletrônicos.
 
 ### 📖 Requisitos Funcionais:
 
@@ -108,7 +108,7 @@ Essas ferramentas são importantes para organização e visualização de demand
 
 
 
-# Cenário 2: Aplicativo de Saúde e Bem-Estar.
+## Cenário 2: Aplicativo de Saúde e Bem-Estar.
 
 
 ### 📖 Requisitos Funcionais:
